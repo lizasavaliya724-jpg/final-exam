@@ -3,6 +3,7 @@ E-Library Management Dashboard
 This project is developed using Python, Pandas, Matplotlib, and Seaborn. It loads library transaction data from a CSV file, performs data analysis, generates reports, and visualizes insights through various charts.
 
 Features:
+
 • Load and clean library transaction data
 • Remove duplicate records
 • Generate statistics and reports
