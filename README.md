@@ -9,15 +9,22 @@ Features:
 • Filter data by genre
 • Display visualizations including:
   - Bar Chart
+  - 
   - Line Chart
+  - 
   - Pie Chart
+  - 
   - Heatmap
 
 Technologies Used:
 • Python
+
 • Pandas
+
 • Matplotlib
+
 • Seaborn
+
 • Object-Oriented Programming (OOP)
 
 Required CSV Columns:
