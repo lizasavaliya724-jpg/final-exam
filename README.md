@@ -5,9 +5,13 @@ This project is developed using Python, Pandas, Matplotlib, and Seaborn. It load
 Features:
 
 • Load and clean library transaction data
+
 • Remove duplicate records
+
 • Generate statistics and reports
+
 • Filter data by genre
+
 • Display visualizations including:
   - Bar Chart
    
