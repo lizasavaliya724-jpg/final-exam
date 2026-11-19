@@ -9,11 +9,11 @@ Features:
 • Filter data by genre
 • Display visualizations including:
   - Bar Chart
-  - 
+   
   - Line Chart
-  - 
+   
   - Pie Chart
-  - 
+   
   - Heatmap
 
 Technologies Used:
