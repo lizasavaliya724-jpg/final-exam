@@ -21,11 +21,16 @@ Technologies Used:
 • Object-Oriented Programming (OOP)
 
 Required CSV Columns:
-• Transaction ID
+• Transaction ID 
+
 • Date
+
 • User ID
+
 • Book Title
+
 • Genre
+
 • Borrowing Duration (Days)
 
 How to Run:
