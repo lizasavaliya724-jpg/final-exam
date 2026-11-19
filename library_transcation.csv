@@ -1,0 +1,41 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+T001,2026-01-03,U001,The Silent Patient,Thriller,7
+T002,2026-01-05,U002,Atomic Habits,Self Help,14
+T003,2026-01-07,U003,Dune,
+T004,2026-01-10,U004,The Hobbit,Fantasy,10
+T005,2026-01-12,U005,The Silent Patient,Thriller,5
+T006,2026-01-15,U006,Educated,Memoir,12
+T007,2026-01-18,U007,Atomic Habits,Self Help,8
+T008,2026-01-21,U008,The Hobbit,Fantasy,15
+T009,2026-01-24,U009,Dune,Science Fiction,18
+T010,2026-01-28,U010,Where the Crawdads Sing,Fiction,9
+T011,2026-02-02,U002,The Silent Patient,Thriller,6
+T012,2026-02-04,U011,Project Hail Mary,Science Fiction,20
+T013,2026-02-06,U012,Atomic Habits,Self Help,11
+T014,2026-02-09,U013,The Hobbit,Fantasy,13
+T015,2026-02-11,U014,Educated,Memoir,10
+T016,2026-02-14,U015,Where the Crawdads Sing,Fiction,16
+T017,2026-02-17,U003,Dune,Science Fiction,22
+T018,2026-02-20,U016,The Silent Patient,Thriller,8
+T019,2026-02-23,U017,Project Hail Mary,Science Fiction,17
+T020,2026-02-26,U018,Atomic Habits,Self Help,7
+T021,2026-03-01,U019,The Hobbit,Fantasy,12
+T022,2026-03-04,U020,The Silent Patient,Thriller,9
+T023,2026-03-07,U021,Educated,Memoir,14
+T024,2026-03-10,U022,Project Hail Mary,Science Fiction,19
+T025,2026-03-13,U023,Where the Crawdads Sing,Fiction,11
+T026,2026-03-16,U024,Atomic Habits,Self Help,10
+T027,2026-03-19,U025,Dune,Science Fiction,24
+T028,2026-03-22,U026,The Hobbit,Fantasy,8
+T029,2026-03-25,U027,The Silent Patient,Thriller,6
+T030,2026-03-28,U028,Project Hail Mary,Science Fiction,16
+T031,2026-04-02,U029,Atomic Habits,Self Help,13
+T032,2026-04-05,U030,Educated,Memoir,9
+T033,2026-04-08,U031,The Silent Patient,Thriller,7
+T034,2026-04-11,U032,The Hobbit,Fantasy,18
+T035,2026-04-14,U033,Where the Crawdads Sing,Fiction,12
+T036,2026-04-17,U034,Dune,Science Fiction,21
+T037,2026-04-20,U035,Project Hail Mary,Science Fiction,15
+T038,2026-04-23,U036,Atomic Habits,Self Help,8
+T039,2026-04-26,U037,The Silent Patient,Thriller,10
+T040,2026-04-29,U038,Educated,Memoir,11
